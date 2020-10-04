@@ -1,2 +1,3 @@
 # musical-octo-carnival
-js console test
+this is an ai test
+contribute please!
