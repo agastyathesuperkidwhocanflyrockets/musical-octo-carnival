@@ -1,1 +1,1 @@
-from tf get tensorflow
+from tf import tensorflow
